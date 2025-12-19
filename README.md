@@ -54,7 +54,7 @@ Each folder contains subfolders representing different plant disease classes.
 ### **Dataset Path Used in the Project**
 
 ```text
-
+https://www.kaggle.com/datasets/emmarex/plantdisease
 ```
 
 Each subfolder contains leaf images belonging to a specific disease category, such as:
