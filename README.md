@@ -178,12 +178,3 @@ This project successfully demonstrates the application of **Neural Networks and 
 > This project is developed strictly for **academic and educational purposes** as part of coursework in **Neural Networks and Deep Learning**. The system is not intended for commercial or professional agricultural diagnosis.
 
 ---
-
-### ✅ If you want, I can:
-
-* Convert this into **PDF**
-* Shorten it to **5–6 pages**
-* Add **college / subject / student details**
-* Create a **cover page**
-
-Just tell me what you want next 👍
