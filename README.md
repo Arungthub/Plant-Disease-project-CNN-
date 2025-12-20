@@ -123,7 +123,7 @@ streamlit run app.py
 
 For demonstration purposes, the trained CNN model is deployed using a **Streamlit web application**. The application allows users to:
 
-* Upload a plant leaf image
+* Upload a plant leaf image (Download image from test data ) 
 * Automatically detect plant type
 * Identify the disease
 * Display confidence score
